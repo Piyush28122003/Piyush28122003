@@ -1,4 +1,4 @@
-<img src="[your_banner_image_url](https://github.com/Piyush28122003/Piyush28122003/blob/main/github-Piyush.png)" alt="Banner" />
+<img src="https://github.com/Piyush28122003/Piyush28122003/blob/main/github-Piyush.png" alt="Banner" />
 
 # Hi there 👋, I'm Piyush Srivastava
 
