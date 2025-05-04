@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Piyush Srivastava
 
 ## 🚀 About Me
-3rd-year engineering student passionate about AI, web development. Exploring MERN stack, AI/Ml and edge computing. Open source contributor and tech enthusiast.
+3rd-year engineering student passionate about AI, web development. Exploring MERN stack, AI/Ml and edge computing. Web Developer, Problem Solving and tech enthusiast.
 
 ## 🛠 Tech Stack:
 <p align="center">
